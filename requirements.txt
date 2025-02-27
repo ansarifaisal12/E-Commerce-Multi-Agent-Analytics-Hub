@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+nltk
+wordcloud
+phi-1.5  #  Replace with the actual package name if it's different
+groq
+numpy
