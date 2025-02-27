@@ -65,7 +65,7 @@ This project is an AI-powered analytics dashboard designed for e-commerce busine
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/ansarifaisal12/E-Commerce-Multi-Agent-Analytics-Hub.git)
+    git clone (https://github.com/ansarifaisal12/E-Commerce-Multi-Agent-Analytics-Hub.git)
     ```
 
 2.  **Create a virtual environment (recommended):**
