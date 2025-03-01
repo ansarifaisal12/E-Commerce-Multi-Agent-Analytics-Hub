@@ -1,0 +1,8 @@
+phidata
+streamlit
+pandas
+plotly
+nltk
+wordcloud
+groq
+numpy
