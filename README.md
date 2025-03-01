@@ -1,7 +1,7 @@
 # E-Commerce Multi-Agent AI
 
 **Muhammad Faisal**  
-*Date: (Replace with today's date)*
+
 
 ## Overview
 
