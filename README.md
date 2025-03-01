@@ -11,6 +11,11 @@ The **E-Commerce Analytics Dashboard** is a Streamlit-based web application powe
 1. **Customer Insights Specialist** 👥
 2. **Product Intelligence Advisor** 📦
 3. **Revenue Growth Strategist** 💰
+![Screenshot 2025-02-27 041104](https://github.com/user-attachments/assets/9ca441db-a9c9-4076-8913-81facd725d18)
+![Screenshot 2025-02-27 041025](https://github.com/user-attachments/assets/db34e358-6ae2-4358-b418-0df7bc9da480)
+![Screenshot 2025-02-27 041104](https://github.com/user-attachments/assets/98ad4347-f6ed-4542-b981-a55aca1aa95a)
+
+
 
 These agents analyze customer behavior, product performance, and sales trends to deliver actionable recommendations.
 
